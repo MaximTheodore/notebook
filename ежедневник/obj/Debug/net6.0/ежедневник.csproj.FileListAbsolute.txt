@@ -1,0 +1,15 @@
+D:\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.exe
+D:\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.deps.json
+D:\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.runtimeconfig.json
+D:\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.dll
+D:\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.pdb
+D:\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.csproj.AssemblyReference.cache
+D:\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.GeneratedMSBuildEditorConfig.editorconfig
+D:\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.AssemblyInfoInputs.cache
+D:\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.AssemblyInfo.cs
+D:\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.csproj.CoreCompileInputs.cache
+D:\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.dll
+D:\ежедневник\ежедневник\obj\Debug\net6.0\refint\ежедневник.dll
+D:\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.pdb
+D:\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.genruntimeconfig.cache
+D:\ежедневник\ежедневник\obj\Debug\net6.0\ref\ежедневник.dll
